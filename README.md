@@ -2,7 +2,7 @@
 
 
 
-![Python_People_tracking](https://socialify.git.ci/walidbosso/Python_People_tracking/image?description=1&descriptionEditable=Distribution%20and%20execution%20of%20tasks%20across%20multiple%20nodes%20It%20enhances%20the%20efficiency%20of%20large-scale%20computation.&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![Python_People_tracking](https://socialify.git.ci/walidbosso/Python_People_tracking/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
